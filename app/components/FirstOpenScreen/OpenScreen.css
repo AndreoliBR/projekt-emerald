@@ -1,0 +1,12 @@
+h1.title {
+  text-align: center;
+  -webkit-user-select: none;
+}
+
+h4.loadingString{
+  text-align: center;
+  -webkit-user-select: none;
+  color: #929292;
+  font-size: 22px;
+  margin-top: 110px;
+}

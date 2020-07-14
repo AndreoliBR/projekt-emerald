@@ -1,0 +1,51 @@
+div.titlebarSafezone {
+  width: 100%;
+  height: 60px;
+}
+
+div.titlebar {
+  position: absolute;
+  width: 100%;
+  height: 60px;
+  -webkit-app-region: drag;
+}
+
+ul.actionButtons {
+  padding: 0px;
+  margin: 0px;
+  display: inline-flex;
+  margin-top: 22.5px;
+  margin-left: 25px;
+  -webkit-user-select: auto;
+}
+
+li {
+  list-style-type: none;
+  transition: ease-in 0.1s;
+  cursor: pointer;
+}
+
+li.closeBtn {
+  width: 15px;
+  height: 15px;
+  background-color: #d42424;
+  border-radius: 15px;
+  -webkit-app-region: no-drag;
+}
+
+li.closeBtn:hover {
+  background-color: #F23A3A;
+}
+
+li.minimizeBtn {
+  width: 15px;
+  height: 15px;
+  background-color: #f0b618;
+  border-radius: 15px;
+  margin-left: 15px;
+  -webkit-app-region: no-drag;
+}
+
+li.minimizeBtn:hover {
+  background-color: #f8cc53;
+}

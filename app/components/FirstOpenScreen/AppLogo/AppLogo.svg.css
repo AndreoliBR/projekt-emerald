@@ -1,0 +1,47 @@
+div.box {
+  text-align: center;
+  margin-top: 60px;
+}
+.cls1 {
+  isolation: isolate;
+}
+.cls2 {
+  opacity: 0.75;
+  mix-blend-mode: multiply;
+}
+.cls3 {
+  fill: #0097ec;
+}
+.cls4 {
+  fill: #0d00b9;
+}
+.cls5 {
+  fill: url(#Gradiente_sem_nome_8);
+}
+.cls6 {
+  fill: #003700;
+}
+.cls7 {
+  fill: #00a500;
+}
+.cls8 {
+  fill: #00eb77;
+}
+.cls9 {
+  fill: #aaf5b6;
+}
+.cls10 {
+  fill: #00d000;
+}
+.cls11 {
+  fill: #f2f7f2;
+}
+.cls12 {
+  fill: #270;
+}
+.cls13 {
+  fill: #adf6b7;
+}
+.cls14 {
+  fill: #007500;
+}
